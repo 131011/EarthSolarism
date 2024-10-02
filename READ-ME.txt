@@ -1,0 +1,22 @@
+  =>  Template Name    : Solartec - Renewable Energy Website Template
+
+  =>  Template Link    : https://htmlcodex.com/renewable-energy-website-template
+
+  =>  Template License : https://htmlcodex.com/license (or read the LICENSE.txt file)
+
+  =>  Template Author  : HTML Codex
+
+  =>  Author Website   : https://htmlcodex.com
+  
+color code of earth solarism logo
+  
+blue:
+
+#17334b
+  
+rgba(23,51,75,255)
+
+yellow:
+
+#fffd00
+rgba(255,253,0,255)
